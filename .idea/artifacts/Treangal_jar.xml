@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Treangal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Treangal_jar</output-path>
+    <root id="archive" name="Treangal.jar">
+      <element id="module-output" name="Treangal" />
+    </root>
+  </artifact>
+</component>
